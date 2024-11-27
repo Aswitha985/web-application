@@ -1,2 +1,4 @@
-# web-application
-this the web application
+java-hello-world-webapp
+=======================
+
+A simple java web app
